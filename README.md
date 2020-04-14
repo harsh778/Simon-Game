@@ -1,2 +1,2 @@
 # Simon-Game
-A basic memory game
+A very basic memory game. Feel free to drop any suggestions. I hope that you will like it:)
