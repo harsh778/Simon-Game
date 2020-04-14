@@ -51,3 +51,14 @@ body {
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+
+.footerclass {
+  font-family: Arial, Helvetica, sans-serif;
+  color: green;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+}
