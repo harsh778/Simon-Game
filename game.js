@@ -77,3 +77,6 @@ function startOver() {
   gamePattern = [];
   started = false;
 }
+console.log("All logs in!")
+console.log("Shell assets successfully launched")
+console.log("Enjoy the game :D")
