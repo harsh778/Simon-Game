@@ -94,6 +94,6 @@ div {
   -ms-user-select: none; 
   user-select: none;  
 }
-.rules-text {
+#rules-text {
 	color: beige;
 	font-size: 29px;
