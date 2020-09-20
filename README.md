@@ -1,7 +1,6 @@
 # Simon-Game
 Simon Game now in your browser.
-A very basic memory game. Feel free to drop any suggestions. I hope that you will like it:)
-#Demo Game
+A very basic memory game. Feel free to drop any suggestions. I hope that you will like it:)<br></br>
 ![Simon Game Demo](https://i.imgur.com/r98Ftze.gif)
 
 
