@@ -1,6 +1,8 @@
 # Simon-Game
 Simon Game now in your browser.
 A very basic memory game. Feel free to drop any suggestions. I hope that you will like it:)<br></br>
+
+# Demo
 <p align="center">
     <img align="center" alt="Demo Simon Game" src="https://i.imgur.com/r98Ftze.gif"></img>
 </p>
